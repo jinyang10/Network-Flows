@@ -3,6 +3,7 @@
 Both files to be executed from command line  
 Usage example: fordfulkerson ff1.txt  
 Note: WGraph must be included when compiling fordfulkerson or bellmanford  
+
 Graphs are encoded in the following format:  
 1st line corresponds to two integers, separated by one space, represent the "source" and "destination" nodes  
 2nd line = one integer, represents total number of nodes  
